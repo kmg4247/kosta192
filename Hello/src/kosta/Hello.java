@@ -14,6 +14,8 @@ public class Hello {
 		System.out.println("hello");
 		System.out.println("byebye");
 		System.out.println("GRGR2");
+		System.out.println("lllll");
+		System.out.println("new");
 	}
 
 }
