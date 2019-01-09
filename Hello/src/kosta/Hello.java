@@ -9,7 +9,7 @@ public class Hello {
 		
 		System.out.println("bye");
 		System.out.println("server11");
-		
+		System.out.println("lucky");
 		System.out.println("mmmmm");
 		System.out.println("hello");
 		System.out.println("byebye");
